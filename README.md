@@ -1,4 +1,4 @@
-# Building a menu app with React
+# Building a tabs page with React
 ![screenshot](./src/screenshot.jpg)
 
 
