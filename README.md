@@ -26,7 +26,7 @@
 
 ## Description 
 
-This is a simple app that uses the React useState hook to display data. The user can filter menus based on the category.
+This is a simple app that uses the React useState hook to get data from an API and display jobs and tasks for each job.
 
 
 ## Developed by
